@@ -29,3 +29,8 @@ Believe it or not, you can generate presentations from Markdown-formatted files.
 Creating presentations in Markdown takes a little getting used to, but once you get the hang of it,
 it is a lot faster and easier than using an application like Powerpoint or Keynote.  
 Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as is Cleaver (GitHub project).
+
+## Emails
+There is an easy way to write email messages using Markdown.  
+Markdown Here is a free and open-source browser extension that converts Markdown-formatted text
+into HTML that is ready to send.
