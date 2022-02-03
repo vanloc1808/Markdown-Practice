@@ -34,3 +34,8 @@ Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as i
 There is an easy way to write email messages using Markdown.  
 Markdown Here is a free and open-source browser extension that converts Markdown-formatted text
 into HTML that is ready to send.
+
+## Documentation
+Markdown is a natural fit for technical documentation. Companies like GitHub are
+increasingly switching to Markdown for their documentation - check out their blog post about
+how they migrated their Markdown-formatted documentation to Jekyll.
