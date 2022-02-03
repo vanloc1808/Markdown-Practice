@@ -19,3 +19,7 @@ For example, Visual Studio Code has an extension named "Markdown PDF" for this u
 
 ## Notes
 In nearly every way, Markdown is the ideal syntax for taking notes.
+
+## Books
+Lookint to self-publish a novel? Try Leanpub, a service that takes your Markdown formatted files and 
+turns them into a electronic book, outputs in PDF, EPUB and MOBI file format.
