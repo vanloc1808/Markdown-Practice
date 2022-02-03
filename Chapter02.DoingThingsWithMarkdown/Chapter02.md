@@ -23,3 +23,9 @@ In nearly every way, Markdown is the ideal syntax for taking notes.
 ## Books
 Lookint to self-publish a novel? Try Leanpub, a service that takes your Markdown formatted files and 
 turns them into a electronic book, outputs in PDF, EPUB and MOBI file format.
+
+## Presentations
+Believe it or not, you can generate presentations from Markdown-formatted files.  
+Creating presentations in Markdown takes a little getting used to, but once you get the hang of it,
+it is a lot faster and easier than using an application like Powerpoint or Keynote.  
+Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as is Cleaver (GitHub project).
