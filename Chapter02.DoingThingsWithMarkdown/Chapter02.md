@@ -16,3 +16,6 @@ Markdown is not as good as Microsoft Word for processing words, but it is good e
 like assignments or letters.  
 We can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML. 
 For example, Visual Studio Code has an extension named "Markdown PDF" for this usage.
+
+## Notes
+In nearly every way, Markdown is the ideal syntax for taking notes.
